@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Speech To Text</string>
+    <string name="Welcome_text">Android Studio\nSpeech To Text</string>
+    <string name="credits">Designed By Santhosh S 200701221 REC\nMobile Application Development Laboratory</string>
+    <string name="get_started">Get Started</string>
+    <string name="speak">Speak</string>
+    <string name="reset">Reset?</string>
+    <string name="hello_again">Hello Again!</string>
+    <string name="hello_again2">Click the Button below\nAnd Start Speaking.</string>
+    <string name="speech_to_text_result">Output</string>
+</resources>
