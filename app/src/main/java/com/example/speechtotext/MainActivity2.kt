@@ -11,6 +11,7 @@ import androidx.appcompat.app.AppCompatActivity
 class MainActivity2 : AppCompatActivity() {
 
     private lateinit var resultTextView: TextView
+    private val text = "Output"
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
@@ -41,7 +42,7 @@ class MainActivity2 : AppCompatActivity() {
         }
 
         reset.setOnClickListener {
-            resultTextView.text = "Output"
+            resultTextView.text = text
         }
     }
 }
